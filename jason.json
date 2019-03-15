@@ -1,0 +1,31 @@
+{
+    "result": "SUCCESS",
+    "code": 200,
+    "data": [
+        {
+            "id": "002WqezQ4dmIeT",
+            "name": "123我爱你",
+            "time": 199,
+            "singer": "新乐尘符",
+            "url": "https://api.bzqll.com/music/tencent/url?id=002WqezQ4dmIeT&key=579621905",
+            "pic":"https://api.bzqll.com/music/tencent/pic?id=002WqezQ4dmIeT&key=579621905",
+            "lrc":"https: //api.bzqll.com/music/tencent/lrc?id=002WqezQ4dmIeT&key=579621905"},
+            {"id":"001Z4NmE0A75bm","name":"123木头人","time":236,"singer":"黑Girl","url":"https://api.bzqll.com/music/tencent/url?id= 001Z4NmE0A75bm&key=579621905","pic":"https: //api.bzqll.com/music/tencent/pic?id=001Z4NmE0A75bm&key=579621905","lrc":"https://api.bzqll.com/music/tencent/lrc?id=001Z4NmE0A75bm&key=579621905"},{"id":"003tvx710GnHNU","name":"123我爱你","tim
+    e":199,"singer":"新乐尘符","url":"https: //api.bzqll.com/music/tencent/url?id=003tvx710GnHNU&key=579621905",
+    "pic":"https://api.bzqll.com/music/tencent/pic?id=003tvx710GnHNU&key=579621905","lrc":"https://api.bzqll.com/music/tencent/lrc?id= 003tvx710GnHNU&key=579621905"},{"id":"000FUdQ33olMGl","name":"1,
+            2,
+            3","time":182,"singer":"Secret","url":"https: //api.bzqll.com/music/tencent/url?id=000FUdQ33olMGl&key=579621905","pic":"https://api.bzqll.com/music/tencent/pic?id=000FUdQ 33olMGl&key=579621905","lrc":"https: //api.bzqll.com/music/tencent/lrc?id=000FUdQ33olMGl&key=579621905"},{"id":"000MTEf82At9fE","name":"123","time":190,"singer":"Jess Glynne","url":"https://api.bzqll.com/music/tencent/url?id=000MTEf82At9f
+    E&key=579621905","pic":"https: //api.bzqll.com/music/tencent/pic?id=000MTEf82At9fE&key=579621905","lrc":"https://api.bzqll.com/music/tencent/lrc?id=000MTEf82At9fE&key=579621905"},{"id":"003tI5sx2vgfOW","name":"1, 2, 3!","time":225,"singer ":"승리","url":"https: //api.bzqll.com/music/tencent/url?id=003tI5sx2vgfOW&key=579621905","pic":"https://api.bzqll.com/music/tencent/pic?id=003tI5sx2vgfOW&key=579621905","lrc":"https://api.bzqll.com/music/tencent/lrc?id=003tI5sx2vgfOW&key
+    =579621905"},{"id":"002Bj63p0OWP4S","name":"1234喜欢你","time":189,"singer":"王欣宇","url":"https: //api.bzqll.com/music/tencent/url?id=002Bj63p0OWP4S&key=579621905","pic":"https://api.bzqll.com/music/tencent/pic?id=002Bj63p0OWP4S&key=579 621905","lrc":"https: //api.bzqll.com/music/tencent/lrc?id=002Bj63p0OWP4S&key=579621905"},{"id":"001RCH4V2pfDSv","name":"123","time":170,"singer":"Girlpool","url":"https://api.bzqll.com/music/tencent/url?id=001RCH4V2pfDSv&key=579621905","
+    pic":"https: //api.bzqll.com/music/tencent/pic?id=001RCH4V2pfDSv&key=579621905","lrc":"https://api.bzqll.com/music/tencent/lrc?id=001RCH4V2pfDSv&key=579621905"},{"id":"003XHzYz2ThyVO","name":"123","time":168,"singer":"João de Sousa","url" : "https://api.bzqll.com/music/tencent/url?id=003XHzYz2ThyVO&key=579621905",
+            "pic": "https://api.bzqll.com/music/tencent/pic?id=003XHzYz2ThyVO&key=579621905",
+            "lrc": "https://api.bzqll.com/music/tencent/lrc?id=003XHzYz2ThyVO&key=579621905"
+        },
+        {
+            "id": "000gTJen3cng78",
+            "name": "一二三",
+            "time": 197,
+            "singer": "石尤",
+            "url": "https://api.bzqll.com/music/tencent/url?id=000gTJen3cng78&key=579621905",
+            "pic": "https://api.bzqll.com/music/tencent/pic?id=000gTJen3cng78&key=579621905",
+            "lrc":"https: //api.bzqll.com/music/tencent/lrc?id=000gTJen3cng78&key=579621905"}]}

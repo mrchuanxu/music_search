@@ -49,6 +49,9 @@
         "type_traits": "cpp",
         "typeinfo": "cpp",
         "utility": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "regex": "cpp",
+        "deque": "cpp",
+        "sstream": "cpp"
     }
 }
