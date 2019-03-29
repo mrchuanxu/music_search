@@ -11,4 +11,6 @@ curl - MAC 需要引入 brew install curl
 #### 编译参考
 `g++ -g -std=c++11  search_music.cc -I/usr/local/opt/openssl/include -L/usr/local/opt/openssl/lib -ljsoncpp -lcurl  -lssl -lcrypto -o test.out`
 
+后面直接添加了makefile，直接make也可以
+
 
